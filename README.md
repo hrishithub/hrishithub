@@ -1,3 +1,3 @@
-<img src="https://i.ibb.co/mysydVW/hrishi.png" alt="My Profile Image" width="800">
+<img src="https://freeimage.host/i/HSfHbUP" alt="My Profile Image">
 
 

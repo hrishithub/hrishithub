@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hrishikesh Gawde:
 🔎 I'm currently working on blockchain and web development projects, exploring the potential of web3 technologies.<br>🤝 I'm looking to collaborate on innovative projects that leverage blockchain and decentralized technologies to solve real-world problems.<br>😊 I'm looking to help with open source projects related to web3 development, and I'm always happy to share my knowledge with others.<br>🌱 I'm currently learning more about smart contracts, decentralized applications, and the Ethereum ecosystem.<br>💬 Ask me about blockchain technology, web3 development, or anything related to the future of decentralized technologies <br>📺 Fun fact: I love binge-watching American sitcoms and web shows in my free time, and I have watched a lot of them!
 
 

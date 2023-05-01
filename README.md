@@ -1,2 +1,2 @@
-<img src="https://ibb.co/mysydVW" alt="Image description">
+<img src="https://i.ibb.co/mysydVW/hrishi.png" alt="My Profile Image">
 

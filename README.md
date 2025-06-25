@@ -1,17 +1,19 @@
-## About Me
+## 🧑‍💻 About Me
+
 
 I’m Hrishikesh Gawde, a Computer Science graduate with a strong interest in data engineering. Since college, I’ve been curious about distributed systems after coming across a YouTube playlist by MIT OpenCourseWare on the topic.  While exploring career paths related to distributed systems, I discovered data engineering and became interested in how data moves and transforms across systems. This interest led me to build multiple end-to-end data engineering projects that reflect real industry practices.
 
 I’ve worked on projects that covers both batch and streaming data pipelines, touching on use cases like CDC ingestion, SCD2 merges, event-driven loads and lakehouse architectures like the Medallion Architecture. I’ve also focused on testing, automation, and workflow orchestration. These projects are built with modern tools and frameworks commonly used in the data industry.
 
 
-## Why I Built These Projects
+## 🎯 Why I Built These Projects
+
 
 My goal was to go beyond basic tutorials and build projects that show an understanding of data engineering workflows in different business domains. I wanted to cover multiple industry use cases, explore modern tools and create pipelines that include monitoring, testing, and automation layers. The projects cover batch and streaming processing, distributed computing, data warehousing, real-time analytics, CDC ingestion, SCD2 merges, data lakehouse architectures, and workflow orchestration. They span cloud platforms like AWS, GCP, and Databricks, and make use of open table formats like Iceberg, Hudi, and Delta Lake.
 
 Each project reflects a specific learning goal: working with streaming data, handling change data capture, performing SCD2 merges or implementing data lakehouse patterns. 
 
-# Project Portfolio
+## 📂 Projects
 
 Below are my data engineering projects. Each project has its own repository with source code and documentation.
 

@@ -1,7 +1,7 @@
 ## 🧑‍💻 About Me
 
 
-I’m Hrishikesh Gawde, a Computer Science graduate with a strong interest in data engineering. Since college, I’ve been curious about distributed systems after coming across a YouTube playlist by MIT OpenCourseWare on the topic.  While exploring career paths related to distributed systems, I discovered data engineering and became interested in how data moves and transforms across systems. This interest led me to build multiple end-to-end data engineering projects that reflect real industry practices.
+I’m Hrishikesh Gawde, a recent Computer Science graduate with a strong interest in data engineering. Since college, I’ve been curious about distributed systems after coming across a YouTube playlist by MIT OpenCourseWare on the topic.  While exploring career paths related to distributed systems, I discovered data engineering and became interested in how data moves and transforms across systems. This interest led me to build multiple end-to-end data engineering projects that reflect real industry practices.
 
 I’ve worked on projects that covers both batch and streaming data pipelines, touching on use cases like CDC ingestion, SCD2 merges, event-driven loads and lakehouse architectures like the Medallion Architecture. I’ve also focused on testing, automation, and workflow orchestration. These projects are built with modern tools and frameworks commonly used in the data industry.
 
